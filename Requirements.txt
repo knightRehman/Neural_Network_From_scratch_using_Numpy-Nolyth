@@ -1,0 +1,5 @@
+Building Neural Network From Scratch Using NumPy
+- Manually buidling Neural Network
+- Manually Impelementing loss functions
+- Manually Impelementing activation functions
+- Generate random 2D points and classify whether they are inside or outside a circle.
