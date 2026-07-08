@@ -90,7 +90,7 @@ Epoch 0    | Loss = 0.693147
 Epoch 1000 | Loss = ...
 ...
 Training Complete!
-Test Accuracy: XX.XX%
+Test Accuracy: 97.05%
 ```
 
 
